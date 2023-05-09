@@ -1,7 +1,7 @@
 
 ![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Mukul Dhiman</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate developer. </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukuldhiman03&label=Profile%20views&color=0e75b6&style=flat" alt="mukuldhiman03" /> </p>
