@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK WEB DEVELOPMENT**
+- 🌱 I’m currently learning **MERN STACK WEB DEVELOPMENT and BLOCKCHAIN **
 
-- 💬 Ask me about **JAVASCRIPT**
+- 💬 Ask me about **JAVASCRIPT , Blockchain , Cybersecurity , I am in Love with JAVASCRIPT.**
 
 - 📫 How to reach me **dhimanmukul307@gmail.com**
 
