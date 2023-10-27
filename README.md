@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dhimanmukul307@gmail.com**
 
-- ⚡ Fun fact **I am engineer**
+- ⚡ Fun fact **I'm an engineer who prefers chai over coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
