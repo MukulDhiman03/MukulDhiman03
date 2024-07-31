@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN STACK WEB DEVELOPMENT and BLOCKCHAIN **
 
-- 💬 Ask me about **JAVASCRIPT , Blockchain , Cybersecurity , I am in Love with JAVASCRIPT.**
+- 💬 Ask me about **JAVASCRIPT , React JS **
 
 - 📫 How to reach me **dhimanmukul307@gmail.com**
 
