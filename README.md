@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK WEB DEVELOPMENT and BLOCKCHAIN **
+- 🌱 I’m currently learning **MERN STACK WEB DEVELOPMENT**
 
-- 💬 Ask me about **JAVASCRIPT , REACT JS **
+- 💬 Ask me about **JAVASCRIPT , REACT JS**
 
 - 📫 How to reach me **dhimanmukul307@gmail.com**
 
-- ⚡ Fun fact **I'm an engineer who prefers chai over coffee.**
+- ⚡ Fun fact **I'm an engineer who prefers chai over coffee and books over movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
