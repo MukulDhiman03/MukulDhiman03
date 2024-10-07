@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN STACK WEB DEVELOPMENT**
 
-- 💬 Ask me about **JAVASCRIPT , REACT JS , NODE JS , EXPRESS JS and a bit of CYBER SECURITY**
+- 💬 Ask me about **JAVASCRIPT , REACT JS , NODE JS , EXPRESS JS and BLOCK CHAIN**
 
 - 📫 How to reach me **dhimanmukul307@gmail.com**
 
