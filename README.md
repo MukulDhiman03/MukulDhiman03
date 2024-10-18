@@ -16,4 +16,10 @@
 
 - ⚡ Fun fact **I'm an engineer who prefers chai over coffee and books over movies**
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/mukuldhiman03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@piyul_gaur_05" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mukul_dhiman_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyul gaur" height="30" width="40" /></a>
+</p>
+
 
