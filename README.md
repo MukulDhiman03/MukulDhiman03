@@ -70,22 +70,6 @@ const mukul = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MukulDhiman03&theme=onedark&no-frame=true&no-bg=false&margin-w=10&column=7" />
-</div>
-
----
-
-## 🐍 My Contributions — Being Eaten by a Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MukulDhiman03/MukulDhiman03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🌍 Life Beyond the Terminal
 
 <table>
